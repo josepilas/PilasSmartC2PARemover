@@ -1,5 +1,7 @@
 # Pilas Smart C2PA Remover
 
+![Logo do Projeto](pscr-logo.webp)
+
 A browser-local application for inspecting Content Credentials and removing supported embedded C2PA structures. Files remain in memory; there is no file upload endpoint. Original files are preserved, and every output is re-scanned before download.
 
 ## Run locally
